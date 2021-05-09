@@ -1,0 +1,13 @@
+*.h5
+*.csv
+*.gif
+*.avi
+*.mp4
+*.json
+.RData
+openpose
+3d-pose-baseline/png
+3d-pose-baseline/experiments
+experiments-TO-BE-DELETED
+__pycache__
+.spyproject

@@ -1,0 +1,9 @@
+=====각도 구분O=====
+SiameseLSTM_4_250_0731 ## epoch: 250,  no_nomalize, validation_num: 4    -> loss: 0.0219 - acc: 0.9756 - val_loss: 0.0257 - val_acc: 0.9699
+SiameseLSTM_4_150_0731 ## epoch: 150, nomalization, validation_num: 4    -> loss: 0.0169 - acc: 0.9831 - val_loss: 0.0210 - val_acc: 0.9787
+SiameseLSTM_1_150_0731 ## epoch: 150, nomalization, validation_num: 1    -> loss: 0.0137 - acc: 0.9856 - val_loss: 0.0211 - val_acc: 0.9789
+
+
+
+=====각도 구분X=====
+SiameseLSTM_angleX_1_150_0731 ## epoch: 150, nomalization, validation_num: 1,     -> loss: 0.0137 - acc: 0.9856 - val_loss: 0.0211 - val_acc: 0.9789
