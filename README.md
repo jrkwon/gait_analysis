@@ -81,4 +81,3 @@ preprocessing
 2. if you use the option(remove outlier, calculate DTW distance) turn on the process value.
 3. select the feature and calculate and save .csv
 4. classification using the .csv file -> ing...
-# gait_analysis
